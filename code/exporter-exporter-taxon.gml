@@ -2,1587 +2,1063 @@ graph [
   node [
     id 0
     label "GB"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Circus"
+    purpose "Breeding"
+    purpose "Zoo"
+    purpose "Medical"
+    purpose "Scientific"
   ]
   node [
     id 1
     label "DE"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Circus"
+    purpose "Zoo"
+    purpose "Breeding"
+    purpose "Hunting"
+    purpose "Law"
+    purpose "Medical"
+    purpose "Scientific"
+    purpose "Educational"
   ]
   node [
     id 2
     label "AT"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Breeding"
+    purpose "Hunting"
+    purpose "Personal"
+    purpose "Zoo"
+    purpose "Scientific"
+    purpose "Medical"
   ]
   node [
     id 3
     label "BY"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Breeding"
+    purpose "Personal"
+    purpose "Circus"
+    purpose "Zoo"
+    purpose "Medical"
+    purpose "Scientific"
   ]
   node [
     id 4
     label "KR"
-    Purpose [
-      Personal "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Circus"
+    purpose "Breeding"
+    purpose "Zoo"
+    purpose "Medical"
+    purpose "Personal"
+    purpose "Scientific"
   ]
   node [
     id 5
     label "SG"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
+    purpose "Circus"
+    purpose "Zoo"
+    purpose "Medical"
+    purpose "Personal"
+    purpose "Law"
   ]
   node [
     id 6
     label "FR"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Medical"
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Breeding"
+    purpose "Circus"
+    purpose "Educational"
+    purpose "Zoo"
+    purpose "Scientific"
+    purpose "Hunting"
   ]
   node [
     id 7
     label "NAN"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Medical"
+    purpose "Hunting"
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Breeding"
+    purpose "Scientific"
   ]
   node [
     id 8
     label "FI"
-    Purpose [
-      Personal "X"
-      Commercial "X"
-    ]
+    purpose "Scientific"
+    purpose "Commercial"
+    purpose "Personal"
   ]
   node [
     id 9
     label "ID"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Zoo"
+    purpose "Scientific"
+    purpose "Circus"
   ]
   node [
     id 10
     label "TH"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Hunting"
+    purpose "Scientific"
+    purpose "Medical"
+    purpose "Zoo"
   ]
   node [
     id 11
     label "TN"
-    Purpose [
-      Hunting "X"
-      Circus "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Circus"
+    purpose "Personal"
+    purpose "Educational"
+    purpose "Scientific"
+    purpose "Zoo"
   ]
   node [
     id 12
     label "IT"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Educational"
+    purpose "Zoo"
+    purpose "Medical"
+    purpose "Circus"
+    purpose "Breeding"
+    purpose "Scientific"
   ]
   node [
     id 13
     label "BE"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Circus"
+    purpose "Zoo"
+    purpose "Medical"
+    purpose "Scientific"
   ]
   node [
     id 14
     label "ZA"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Hunting"
+    purpose "Personal"
+    purpose "Educational"
+    purpose "Scientific"
+    purpose "Zoo"
+    purpose "Breeding"
+    purpose "Medical"
+    purpose "Circus"
   ]
   node [
     id 15
     label "CU"
-    Purpose [
-      Medical "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Scientific"
+    purpose "Commercial"
   ]
   node [
     id 16
     label "HU"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Hunting"
+    purpose "Zoo"
+    purpose "Personal"
+    purpose "Scientific"
   ]
   node [
     id 17
     label "VN"
-    Purpose [
-      Hunting "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Medical"
+    purpose "Scientific"
   ]
   node [
     id 18
     label "CZ"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Educational"
+    purpose "Personal"
+    purpose "Zoo"
+    purpose "Hunting"
+    purpose "Breeding"
+    purpose "Scientific"
   ]
   node [
     id 19
     label "GR"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Zoo"
+    purpose "Scientific"
   ]
   node [
     id 20
     label "BJ"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Hunting"
+    purpose "Breeding"
+    purpose "Scientific"
   ]
   node [
     id 21
     label "JP"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Medical"
+    purpose "Personal"
+    purpose "Circus"
+    purpose "Zoo"
+    purpose "Scientific"
+    purpose "Educational"
   ]
   node [
     id 22
     label "ES"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Hunting"
+    purpose "Circus"
+    purpose "Medical"
+    purpose "Scientific"
+    purpose "Zoo"
+    purpose "Educational"
   ]
   node [
     id 23
     label "ZW"
-    Purpose [
-      Hunting "X"
-    ]
+    purpose "Hunting"
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Medical"
   ]
   node [
     id 24
     label "ZM"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Hunting"
+    purpose "Scientific"
   ]
   node [
     id 25
     label "BO"
-    Purpose [
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 26
     label "AE"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Educational"
+    purpose "Circus"
+    purpose "Scientific"
+    purpose "Zoo"
+    purpose "Breeding"
+    purpose "Hunting"
+    purpose "Medical"
   ]
   node [
     id 27
     label "RU"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Hunting"
+    purpose "Zoo"
+    purpose "Unspecified"
+    purpose "Educational"
+    purpose "Circus"
+    purpose "Commercial"
+    purpose "Scientific"
+    purpose "Breeding"
+    purpose "Medical"
   ]
   node [
     id 28
     label "IE"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Zoo"
+    purpose "Scientific"
+    purpose "Medical"
   ]
   node [
     id 29
     label "JO"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Unspecified"
   ]
   node [
     id 30
     label "UY"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 31
     label "HK"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Circus"
   ]
   node [
     id 32
     label "NL"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Circus"
+    purpose "Medical"
+    purpose "Educational"
+    purpose "Breeding"
+    purpose "Scientific"
+    purpose "Zoo"
   ]
   node [
     id 33
     label "CO"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 34
     label "CN"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Circus"
+    purpose "Scientific"
   ]
   node [
     id 35
     label "PL"
-    Purpose [
-      Medical "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Hunting"
+    purpose "Breeding"
+    purpose "Zoo"
   ]
   node [
     id 36
     label "MY"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 37
     label "LK"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
+    purpose "Breeding"
+    purpose "Personal"
   ]
   node [
     id 38
     label "AR"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Hunting"
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Zoo"
   ]
   node [
     id 39
     label "GY"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Zoo"
   ]
   node [
     id 40
     label "CA"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Medical"
+    purpose "Personal"
+    purpose "Hunting"
+    purpose "Circus"
+    purpose "Zoo"
+    purpose "Breeding"
+    purpose "Scientific"
+    purpose "Law"
   ]
   node [
     id 41
     label "SD"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Unspecified"
+    purpose "Breeding"
   ]
   node [
     id 42
     label "PT"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Breeding"
+    purpose "Zoo"
   ]
   node [
     id 43
     label "MZ"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Hunting"
+    purpose "Zoo"
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 44
     label "PG"
-    Purpose [
-      Hunting "X"
-      Commercial "X"
-    ]
+    purpose "Unspecified"
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Commercial"
   ]
   node [
     id 45
     label "PH"
-    Purpose [
-      Breeding "X"
-      Circus "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "Commercial"
+    purpose "Law"
+    purpose "Breeding"
+    purpose "Personal"
+    purpose "Medical"
   ]
   node [
     id 46
     label "NZ"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Commercial"
+    purpose "Hunting"
+    purpose "Zoo"
   ]
   node [
     id 47
     label "KG"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "Hunting"
+    purpose "Personal"
+    purpose "Circus"
+    purpose "Commercial"
+    purpose "Educational"
   ]
   node [
     id 48
     label "RO"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Hunting"
+    purpose "Commercial"
   ]
   node [
     id 49
     label "IQ"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Personal"
   ]
   node [
     id 50
     label "MK"
-    Purpose [
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Educational"
+    purpose "Zoo"
+    purpose "Commercial"
+    purpose "Hunting"
   ]
   node [
     id 51
     label "CM"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Law "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "Hunting"
+    purpose "Commercial"
   ]
   node [
     id 52
     label "NO"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Hunting"
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Commercial"
+    purpose "Zoo"
+    purpose "Medical"
+    purpose "Breeding"
   ]
   node [
     id 53
     label "EE"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Hunting"
+    purpose "Commercial"
+    purpose "Zoo"
   ]
   node [
     id 54
     label "DK"
-    Purpose [
-      Hunting "X"
-      Circus "X"
-      Commercial "X"
-    ]
+    purpose "Hunting"
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Commercial"
+    purpose "Breeding"
+    purpose "Zoo"
+    purpose "Medical"
   ]
   node [
     id 55
     label "HR"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "Hunting"
+    purpose "Scientific"
   ]
   node [
     id 56
     label "TR"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Hunting"
+    purpose "Commercial"
+    purpose "Personal"
   ]
   node [
     id 57
     label "PK"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Hunting"
+    purpose "Commercial"
+    purpose "Zoo"
+    purpose "Personal"
+    purpose "Scientific"
   ]
   node [
     id 58
     label "TD"
-    Purpose [
-      Medical "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Hunting"
+    purpose "Commercial"
   ]
   node [
     id 59
     label "TZ"
-    Purpose [
-      Hunting "X"
-      Commercial "X"
-    ]
+    purpose "Hunting"
+    purpose "Scientific"
   ]
   node [
     id 60
     label "CW"
-    Purpose [
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
   ]
   node [
     id 61
     label "TT"
-    Purpose [
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Commercial"
   ]
   node [
     id 62
     label "BQ"
-    Purpose [
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
   ]
   node [
     id 63
     label "BH"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Zoo"
   ]
   node [
     id 64
     label "JE"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Law "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Zoo"
+    purpose "Commercial"
   ]
   node [
     id 65
     label "QA"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Breeding"
+    purpose "Scientific"
   ]
   node [
     id 66
     label "IR"
-    Purpose [
-      Educational "X"
-      Hunting "X"
-      Personal "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "Personal"
+    purpose "Hunting"
+    purpose "Zoo"
+    purpose "Commercial"
   ]
   node [
     id 67
     label "IS"
-    Purpose [
-      Scientific "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Educational"
+    purpose "Scientific"
   ]
   node [
     id 68
     label "LU"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Personal "X"
-      Circus "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
   ]
   node [
     id 69
     label "KE"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Commercial"
   ]
   node [
     id 70
     label "IM"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
   ]
   node [
     id 71
     label "BS"
-    Purpose [
-      Breeding "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
   ]
   node [
     id 72
     label "KN"
-    Purpose [
-      Medical "X"
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Medical"
   ]
   node [
     id 73
     label "GL"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Educational"
   ]
   node [
     id 74
     label "VU"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 75
     label "MD"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Circus"
+    purpose "Commercial"
   ]
   node [
     id 76
     label "CV"
-    Purpose [
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Scientific"
   ]
   node [
     id 77
     label "PA"
-    Purpose [
-      Medical "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 78
     label "SK"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Breeding"
+    purpose "Personal"
+    purpose "Hunting"
+    purpose "Scientific"
+    purpose "Zoo"
   ]
   node [
     id 79
     label "MO"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 80
     label "DO"
-    Purpose [
-      Hunting "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 81
     label "SC"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Unspecified"
+    purpose "Scientific"
   ]
   node [
     id 82
     label "CL"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Zoo"
+    purpose "Scientific"
   ]
   node [
     id 83
     label "SE"
-    Purpose [
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "Commercial"
+    purpose "Zoo"
+    purpose "Hunting"
+    purpose "Scientific"
+    purpose "Personal"
+    purpose "Medical"
   ]
   node [
     id 84
     label "AL"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Law "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Unspecified"
   ]
   node [
     id 85
     label "BI"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Breeding"
   ]
   node [
     id 86
     label "BF"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Breeding"
   ]
   node [
     id 87
     label "ET"
-    Purpose [
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Hunting"
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 88
     label "AZ"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Hunting"
+    purpose "Medical"
+    purpose "Commercial"
+    purpose "Unspecified"
+    purpose "Zoo"
   ]
   node [
     id 89
     label "IN"
-    Purpose [
-      Hunting "X"
-      Personal "X"
-      Commercial "X"
-    ]
+    purpose "Medical"
+    purpose "Commercial"
+    purpose "Unspecified"
+    purpose "Zoo"
   ]
   node [
     id 90
     label "DM"
-    Purpose [
-      Medical "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Medical"
+    purpose "Breeding"
+    purpose "Commercial"
   ]
   node [
     id 91
     label "BG"
-    Purpose [
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Circus"
+    purpose "Scientific"
+    purpose "Hunting"
   ]
   node [
     id 92
     label "SI"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Scientific"
+    purpose "Commercial"
+    purpose "Zoo"
   ]
   node [
     id 93
     label "BZ"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Scientific"
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Zoo"
   ]
   node [
     id 94
     label "FK"
-    Purpose [
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Scientific"
   ]
   node [
     id 95
     label "SM"
-    Purpose [
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 96
     label "IL"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Medical"
+    purpose "Scientific"
+    purpose "Zoo"
   ]
   node [
     id 97
     label "LV"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "Unspecified"
+    purpose "Zoo"
+    purpose "Personal"
   ]
   node [
     id 98
     label "SA"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Scientific"
+    purpose "Medical"
   ]
   node [
     id 99
     label "MA"
-    Purpose [
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Personal"
+    purpose "Commercial"
+    purpose "Medical"
+    purpose "Breeding"
+    purpose "Zoo"
   ]
   node [
     id 100
     label "MT"
-    Purpose [
-      Breeding "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "Breeding"
+    purpose "Commercial"
   ]
   node [
     id 101
     label "BT"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Scientific"
   ]
   node [
     id 102
     label "NE"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 103
     label "LT"
-    Purpose [
-      Medical "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 104
     label "UG"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Hunting"
+    purpose "Zoo"
+    purpose "Breeding"
+    purpose "Scientific"
+    purpose "Commercial"
   ]
   node [
     id 105
     label "BB"
-    Purpose [
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "Medical"
+    purpose "Personal"
+    purpose "Commercial"
   ]
   node [
     id 106
     label "MG"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
+    purpose "Circus"
+    purpose "Unspecified"
   ]
   node [
     id 107
     label "NI"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 108
     label "KH"
-    Purpose [
-      Medical "X"
-      Commercial "X"
-    ]
+    purpose "Medical"
+    purpose "Scientific"
+    purpose "Commercial"
   ]
   node [
     id 109
     label "MU"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Medical"
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 110
     label "ML"
-    Purpose [
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 111
     label "CD"
-    Purpose [
-      Medical "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Educational"
+    purpose "Law"
   ]
   node [
     id 112
     label "SV"
-    Purpose [
-      Hunting "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 113
     label "CG"
-    Purpose [
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Hunting"
+    purpose "Scientific"
   ]
   node [
     id 114
     label "GG"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "Personal"
+    purpose "Zoo"
+    purpose "Commercial"
   ]
   node [
     id 115
     label "BD"
-    Purpose [
-      Medical "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Scientific"
+    purpose "Commercial"
   ]
   node [
     id 116
     label "CY"
-    Purpose [
-      Breeding "X"
-      Circus "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
+    purpose "Zoo"
+    purpose "Breeding"
+    purpose "Personal"
   ]
   node [
     id 117
     label "OM"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
   ]
   node [
     id 118
     label "UZ"
-    Purpose [
-      Hunting "X"
-      Circus "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Personal"
+    purpose "Hunting"
+    purpose "Zoo"
   ]
   node [
     id 119
     label "SX"
-    Purpose [
-      Hunting "X"
-      Circus "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 120
     label "WS"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Law "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Personal"
   ]
   node [
     id 121
     label "HN"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 122
     label "RS"
-    Purpose [
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 123
     label "VE"
-    Purpose [
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   node [
     id 124
     label "AW"
-    Purpose [
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Personal"
   ]
   node [
     id 125
     label "BW"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "Breeding"
+    purpose "Scientific"
+    purpose "Commercial"
+    purpose "Personal"
   ]
   node [
     id 126
     label "CR"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "Breeding"
+    purpose "Scientific"
   ]
   node [
     id 127
     label "SH"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Scientific"
   ]
   node [
     id 128
     label "RW"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Scientific"
   ]
   node [
     id 129
     label "MR"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Scientific"
   ]
   node [
     id 130
     label "AI"
-    Purpose [
-      Hunting "X"
-      Circus "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "Commercial"
+    purpose "Scientific"
   ]
   node [
     id 131
     label "JM"
-    Purpose [
-      Breeding "X"
-      Hunting "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Scientific"
   ]
   node [
     id 132
     label "PY"
-    Purpose [
-      Commercial "X"
-      Unspecified "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Unspecified"
   ]
   node [
     id 133
     label "MW"
-    Purpose [
-      Medical "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Medical"
   ]
   node [
     id 134
     label "SZ"
-    Purpose [
-      Breeding "X"
-      Educational "X"
-      Hunting "X"
-      Law "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-      Zoo "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Medical"
   ]
   node [
     id 135
     label "BM"
-    Purpose [
-      Hunting "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Scientific"
   ]
   node [
     id 136
     label "LC"
-    Purpose [
-      Hunting "X"
-      Medical "X"
-      Personal "X"
-      Scientific "X"
-      Commercial "X"
-    ]
+    purpose "_networkx_list_start"
+    purpose "Commercial"
   ]
   edge [
     source 0
